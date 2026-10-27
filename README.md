@@ -12,18 +12,18 @@
   </p>
 
 
-<div align="left">
+<div align="center">
   <a href="https://korikovaelizaveta.super.site/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-2E7D32?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-2a9d90?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
   </a>
   <a href="https://t.me/MechanicalDeathtrap">
-    <img src="https://img.shields.io/badge/Telegram-Message-2E7D32?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+    <img src="https://img.shields.io/badge/Telegram-2a9d90?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
   <a href="http://www.linkedin.com/in/elizaveta-korikova-58966032a">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-2E7D32?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-2a9d90?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:elizavetakorikova0@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say_Hello-2E7D32?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-2a9d90?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
 
@@ -72,29 +72,29 @@
 
 <h3>🎨 UI Design</h3>
 <p>
-  <img src="https://img.shields.io/badge/Figma-A78BFA?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-  <img src="https://img.shields.io/badge/Photoshop-A78BFA?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop">
-  <img src="https://img.shields.io/badge/Prototyping-A78BFA?style=for-the-badge" alt="Prototyping">
-  <img src="https://img.shields.io/badge/Design_Systems-A78BFA?style=for-the-badge" alt="Design Systems">
-  <img src="https://img.shields.io/badge/Adaptive_Design-A78BFA?style=for-the-badge" alt="Adaptive Design">
+  <img src="https://img.shields.io/badge/Figma-9f83f1?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+  <img src="https://img.shields.io/badge/Photoshop-9f83f1?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop">
+  <img src="https://img.shields.io/badge/Prototyping-9f83f1?style=for-the-badge" alt="Prototyping">
+  <img src="https://img.shields.io/badge/Design_Systems-9f83f1?style=for-the-badge" alt="Design Systems">
+  <img src="https://img.shields.io/badge/Adaptive_Design-9f83f1?style=for-the-badge" alt="Adaptive Design">
 </p>
 
 <h3>🔎 UX Research & Product Thinking</h3>
 <p>
-  <img src="https://img.shields.io/badge/User_Interviews-2BBFAE?style=for-the-badge" alt="User Interviews">
-  <img src="https://img.shields.io/badge/Usability_Testing-2BBFAE?style=for-the-badge" alt="Usability Testing">
-  <img src="https://img.shields.io/badge/CJM-2BBFAE?style=for-the-badge" alt="CJM">
-  <img src="https://img.shields.io/badge/JTBD-2BBFAE?style=for-the-badge" alt="JTBD">
-  <img src="https://img.shields.io/badge/User_Flows-2BBFAE?style=for-the-badge" alt="User Flows">
+  <img src="https://img.shields.io/badge/User_Interviews-2a9d90?style=for-the-badge" alt="User Interviews">
+  <img src="https://img.shields.io/badge/Usability_Testing-2a9d90?style=for-the-badge" alt="Usability Testing">
+  <img src="https://img.shields.io/badge/CJM-2a9d90?style=for-the-badge" alt="CJM">
+  <img src="https://img.shields.io/badge/JTBD-2a9d90?style=for-the-badge" alt="JTBD">
+  <img src="https://img.shields.io/badge/User_Flows-2a9d90?style=for-the-badge" alt="User Flows">
 </p>
 
 <h3>💻 Frontend Development</h3>
 <p>
-  <img src="https://img.shields.io/badge/React-38A9E8?style=for-the-badge&logo=react&logoColor=white" alt="React">
-  <img src="https://img.shields.io/badge/TypeScript-38A9E8?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Vite-38A9E8?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
-  <img src="https://img.shields.io/badge/HTML5-38A9E8?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-38A9E8?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/React-2496d6?style=for-the-badge&logo=react&logoColor=white" alt="React">
+  <img src="https://img.shields.io/badge/TypeScript-2496d6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Vite-2496d6?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
+  <img src="https://img.shields.io/badge/HTML5-2496d6?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-2496d6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 </p>
 
 
@@ -146,16 +146,16 @@
 
 <div align="center">
   <a href="https://korikovaelizaveta.super.site/">
-    <img src="https://img.shields.io/badge/Portfolio-249F8C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-2a9d90?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
   </a>
   <a href="https://t.me/MechanicalDeathtrap">
-    <img src="https://img.shields.io/badge/Telegram-249F8C?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+    <img src="https://img.shields.io/badge/Telegram-2a9d90?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
   <a href="http://www.linkedin.com/in/elizaveta-korikova-58966032a">
-    <img src="https://img.shields.io/badge/LinkedIn-249F8C?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-2a9d90?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:elizavetakorikova0@gmail.com">
-    <img src="https://img.shields.io/badge/Email-249F8C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-2a9d90?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
 
