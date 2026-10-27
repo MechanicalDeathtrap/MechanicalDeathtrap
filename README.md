@@ -5,7 +5,7 @@
   <h3 align="left">UX/UI Designer · Product Designer · Frontend Developer</h3>
 
   <p align="left">
-    I design thoughtful digital experiences and build them with code.
+    <strong>I design thoughtful digital experiences and build them with code.</strong>
     <br>
     Combining UX thinking, visual design, and hands-on frontend development
     to create products that work for both people and developers.
