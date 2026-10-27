@@ -11,13 +11,22 @@
     to create products that work for both people and developers.
   </p>
 
-  <p align="left">
-    <a href="https://korikovaelizaveta.super.site/">Portfolio</a>
-    ·
-    <a href="https://t.me/MechanicalDeathtrap">Telegram</a>
-    ·
-    <a href="http://www.linkedin.com/in/elizaveta-korikova-58966032a">LinkedIn</a>
-  </p>
+
+<div align="left">
+  <a href="https://korikovaelizaveta.super.site/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-2E7D32?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://t.me/MechanicalDeathtrap">
+    <img src="https://img.shields.io/badge/Telegram-Message-2E7D32?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+  <a href="http://www.linkedin.com/in/elizaveta-korikova-58966032a">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-2E7D32?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:elizavetakorikova0@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Say_Hello-2E7D32?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</div>
+
 
 </div>
 
@@ -59,36 +68,34 @@
 
 <hr>
 
+
 <h2>🛠️ Tools & skills</h2>
 
-<h3>🎨 UI/UX design</h3>
-
+<h3>🎨 UI/UX Design</h3>
 <p>
-  <img src="https://img.shields.io/badge/Figma-1E1E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma">
-  <img src="https://img.shields.io/badge/Photoshop-001E36?style=flat-square&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop">
-  <img src="https://img.shields.io/badge/Prototyping-6C63FF?style=flat-square" alt="Prototyping">
-  <img src="https://img.shields.io/badge/Design_Systems-6C63FF?style=flat-square" alt="Design Systems">
-  <img src="https://img.shields.io/badge/Adaptive_Design-6C63FF?style=flat-square" alt="Adaptive Design">
+  <img src="https://img.shields.io/badge/Figma-2E7D32?style=flat&logo=figma&logoColor=white" alt="Figma">
+  <img src="https://img.shields.io/badge/Photoshop-2E7D32?style=flat&logo=adobephotoshop&logoColor=white" alt="Photoshop">
+  <img src="https://img.shields.io/badge/Prototyping-2E7D32?style=flat" alt="Prototyping">
+  <img src="https://img.shields.io/badge/Design_Systems-2E7D32?style=flat" alt="Design Systems">
+  <img src="https://img.shields.io/badge/Adaptive_Design-2E7D32?style=flat" alt="Adaptive Design">
 </p>
 
-<h3>🔎 UX research & product thinking</h3>
-
+<h3>🔎 UX Research & Product Thinking</h3>
 <p>
-  <img src="https://img.shields.io/badge/User_Interviews-2D6A4F?style=flat-square" alt="User Interviews">
-  <img src="https://img.shields.io/badge/Usability_Testing-2D6A4F?style=flat-square" alt="Usability Testing">
-  <img src="https://img.shields.io/badge/CJM-2D6A4F?style=flat-square" alt="Customer Journey Map">
-  <img src="https://img.shields.io/badge/JTBD-2D6A4F?style=flat-square" alt="Jobs To Be Done">
-  <img src="https://img.shields.io/badge/User_Flows-2D6A4F?style=flat-square" alt="User Flows">
+  <img src="https://img.shields.io/badge/User_Interviews-2E7D32?style=flat" alt="User Interviews">
+  <img src="https://img.shields.io/badge/Usability_Testing-2E7D32?style=flat" alt="Usability Testing">
+  <img src="https://img.shields.io/badge/CJM-2E7D32?style=flat" alt="Customer Journey Map">
+  <img src="https://img.shields.io/badge/JTBD-2E7D32?style=flat" alt="Jobs To Be Done">
+  <img src="https://img.shields.io/badge/User_Flows-2E7D32?style=flat" alt="User Flows">
 </p>
 
-<h3>💻 Frontend development</h3>
-
+<h3>💻 Frontend Development</h3>
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS">
+  <img src="https://img.shields.io/badge/React-2E7D32?style=flat&logo=react&logoColor=white" alt="React">
+  <img src="https://img.shields.io/badge/TypeScript-2E7D32?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Vite-2E7D32?style=flat&logo=vite&logoColor=white" alt="Vite">
+  <img src="https://img.shields.io/badge/HTML5-2E7D32?style=flat&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-2E7D32?style=flat&logo=css3&logoColor=white" alt="CSS3">
 </p>
 
 <hr>
@@ -132,28 +139,28 @@
 
 <hr>
 
+
 <div align="center">
 
   <h2>Let's build something meaningful ⚡</h2>
 
-  <p>
-    <a href="https://korikovaelizaveta.super.site/">
-      <img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge" alt="Portfolio">
-    </a>
-    <a href="https://t.me/MechanicalDeathtrap">
-      <img src="https://img.shields.io/badge/Telegram-Connect-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-    </a>
-    <a href="http://www.linkedin.com/in/elizaveta-korikova-58966032a">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="mailto:elizavetakorikova0@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-    </a>
-  </p>
+  <a href="https://korikovaelizaveta.super.site/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-2E7D32?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://t.me/MechanicalDeathtrap">
+    <img src="https://img.shields.io/badge/Telegram-Message-2E7D32?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+  <a href="http://www.linkedin.com/in/elizaveta-korikova-58966032a">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-2E7D32?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:elizavetakorikova0@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Say_Hello-2E7D32?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 
   <p><em>Curious about people. Serious about the details. Always learning. ✨</em></p>
 
 </div>
+
 
 
 <!--
