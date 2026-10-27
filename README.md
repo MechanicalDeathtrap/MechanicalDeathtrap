@@ -12,7 +12,7 @@
   </p>
 
 
-<div align="center">
+<div align="left">
   <a href="https://korikovaelizaveta.super.site/">
     <img src="https://img.shields.io/badge/Portfolio-2a9d90?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
   </a>
