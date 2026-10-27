@@ -1,13 +1,13 @@
 
 <div align="center">
 
-  <h1>Hi, I'm Liza 🌿</h1>
+  <h1 align="left">Hi, I'm Liza 🌿</h1>
 
-  <h3>UX/UI Designer · Product Design · Frontend Development</h3>
+  <h3 align="left">UX/UI Designer · Product Design · Frontend Development</h3>
 
-  <p>I like digging deep into a problem, untangling user flows, and designing interfaces with common sense.</p>
+  <p align="left">I like digging deep into a problem, untangling user flows, and designing interfaces with common sense.</p>
 
-  <p><strong>Figma &amp; research</strong> are my design home. <strong>React and TypeScript</strong> are where I came from, so I design things that are easy to build.</p>
+  <p align="left"><strong>Figma &amp; research</strong> are my design home. <strong>React and TypeScript</strong> are where I came from, so I design things that are easy to build.</p>
 
 </div>
 
