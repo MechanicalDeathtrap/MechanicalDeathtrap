@@ -14,7 +14,7 @@
 
 <div align="left">
   <a href="https://korikovaelizaveta.super.site/">
-    <img src="https://img.shields.io/badge/Portfolio-2a9d90?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Design portfolio">
+    <img src="https://img.shields.io/badge/Design-portfolio-2a9d90?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Design portfolio">
   </a>
   <a href="https://t.me/MechanicalDeathtrap">
     <img src="https://img.shields.io/badge/Telegram-2a9d90?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
